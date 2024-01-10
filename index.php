@@ -73,7 +73,7 @@
 
       <div class="product">
         <img src="images/products/fan.jpg" alt="">
-        <h4>Ceiling Fan</h4>
+        <h4>Standing Fan</h4>
       </div>
 
       <div class="product">
