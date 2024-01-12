@@ -26,28 +26,28 @@
       <div class="item active">
         <img src="images/sliders/appliances 5.jpg" alt="">
         <div class="caption">
-          <b>Slider 1</b>
+          <b>Image 1</b>
         </div>
       </div>
 
       <div class="item">
         <img src="images/sliders/appliances 2.jpeg" alt="">
         <div class="caption">
-         <b> Slider 2</b>
+         <b>Image 2</b>
         </div>
       </div>
 
       <div class="item">
         <img src="images/sliders/appliances 3.png" alt="">
         <div class="caption">
-          <b>Slider 3</b>
+          <b>Image 3</b>
         </div>
       </div>
 
       <div class="item">
         <img src="images/sliders/appliances 4.jpeg" alt="">
         <div class="caption">
-          <b>Slider 4</b>
+          <b>Image 4</b>
         </div>
       </div>
     </div>
