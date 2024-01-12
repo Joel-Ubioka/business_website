@@ -94,13 +94,14 @@ html, body
 .slider_container
 {
   overflow: hidden;
+  text-align: center;
 }
 
 .slider_container figure
 {
   display: flex;
   position: relative;
-  width: 500%;
+  width: 400%;
   margin: 0;
   left: 0;
   animation: 20s slider infinite;
@@ -128,10 +129,11 @@ html, body
 .slider 
 {
   max-width: 700px;
-  border: 10px solid darkred;
+  border: 7px solid darkred;
   margin: 50px auto;
   position: relative;
   overflow: hidden;
+  border-r0px;
 }
 
 .slider .left-slide:hover, .slider .right-slide:hover
@@ -193,6 +195,11 @@ html, body
 .slider .slider-items .item.active
 {
   display: block;
+}
+.caption{
+  text-align: center;
+  background-color: gray;
+  
 }
 
 /* HOME PRODUCTS STYLING */
